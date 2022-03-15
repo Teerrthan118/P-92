@@ -1,0 +1,23 @@
+#output
+{ 
+    background: white; 
+    border-radius: 10px; 
+    border-top: 10px solid #AA4465; 
+    padding: 10px; 
+    float: none; 
+    text-align: left; 
+} 
+.num_input
+{
+    width: 1000px;
+    height: 30px;
+    font-size: larger;
+    border-radius: 10px;
+}
+#title
+{
+    font-size: 100;
+}
+body {
+    background-color: red;
+}

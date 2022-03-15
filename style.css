@@ -1,0 +1,45 @@
+body
+{
+	background-color: lightskyblue;
+}
+
+	.login-div1 , .login-div2
+	{
+		background: #6ec7ff;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		border-color: black;
+		border-style: solid;
+		width: 500px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#scr-contain {
+	padding-left: 20px;
+	padding-top: 20px;
+    font-size: 20px;
+}
